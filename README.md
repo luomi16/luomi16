@@ -1,7 +1,7 @@
 <!-- "Hero" Header -->
 <div align="center">
- <!-- <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />-->
-  <img src='images/welcome-to-my-profile.gif'>
+ <!-- <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src='images/welcome-to-my-profile.gif'>-->
 
   [<img src="https://img.shields.io/github/followers/luomi16?label=follow&style=social" height="22" title="Follow me" />](https://github.com/luomi16)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mi-luo/)
