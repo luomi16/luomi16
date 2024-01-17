@@ -14,8 +14,7 @@
 <div align="center">
  
  
-- 🔭 I'm a student of Computer Science in the US.
-- 🌱 I’m currently learning NODE.JS and REACT.JS.
+- 🔭 I'm a student of Computer Science at University of Delaware in the US.
 - 💬 Ask me everything about my project.
 
 <details> 
